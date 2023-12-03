@@ -1,7 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ISURU+WEERAKKODI;" />
 </h1>
-<h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full Stack developer from Sri Lanka 🇱🇰</h3>
+<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE2MDI5ODcsIm5iZiI6MTcwMTYwMjY4NywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjAzVDExMjQ0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc3Nzg2MjM1NTU3ZjRiM2E0YmQ3NGIyMGJlNGY5ZGYzNGUxZjQxYWFiNDc5MzFhZjdhYmNmNDFhMmM0YzY2NjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.pSe0e-saAn7OJk9ORvjYO7WNNEQ_z7FuTZWItH49FLo">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuruweerakkodi&label=Profile%20views&color=0e75b6&style=flat" alt="isuruweerakkodi" /> </p>
 
