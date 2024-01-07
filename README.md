@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working in **IJSE Panadura**
 
-- 🌱 I’m currently learning **React, Node.js, SpringBoot, Angular TypeScript**
+- 🌱 I’m currently learning **SpringBoot, Angular **
 
 - 👨‍💻 All of my projects are available at [https://github.com/IsuruWeerakkodi?tab=repositories](https://github.com/IsuruWeerakkodi?tab=repositories)
 
-- 💬 Ask me about **Java, HTML5, CSS3, Bootstrap, JavaScript**
+- 💬 Ask me about **Java, Spring Framework, HTML5, CSS3, Bootstrap, JavaScript, React, Node.js, TypeScript**
 
 - 📫 How to reach me **isuruweerakkodi24@gmail.com**
 
