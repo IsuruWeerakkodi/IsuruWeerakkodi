@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in **IJSE Panadura**
 
-- 🌱 I’m currently learning **SpringBoot, Angular **
+- 🌱 I’m currently learning **SpringBoot, Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IsuruWeerakkodi?tab=repositories](https://github.com/IsuruWeerakkodi?tab=repositories)
 
